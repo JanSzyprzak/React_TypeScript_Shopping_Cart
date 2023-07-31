@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "sleeping_bag",
+        "price": 500,
+        "imgUrl": "/images/sleeping_bag.png"
+    },
+    {
+        "id": 2,
+        "name": "sleeping_bag2",
+        "price": 540,
+        "imgUrl": "/images/sleeping_bag2.png"
+    },
+    {
+        "id": 3,
+        "name": "sleeping_bag3",
+        "price": 534,
+        "imgUrl": "/images/sleeping_bag3.png"
+    },
+    {
+        "id": 4,
+        "name": "sleeping_bag4",
+        "price": 504,
+        "imgUrl": "/images/sleeping_bag4.png"
+    }
+]
